@@ -14,7 +14,7 @@ const profileSettings = {
   location: "Bekasi, Jawa Barat, Indonesia", // Lokasi
   backgroundImage: "background.jpg", // Latar belakang halaman
   links: [
-    { title: "Tiktok", url: "https://www.tiktok.com/@ghanzxxyz2009" },
+    { title: "Tiktok", url: "www.tiktok.com/@ghanzxxyz2009" },
     { title: "Instagram", url: "https://www.instagram.com/ghanz_anak_sholeh?igsh=MTNqYmZ5ZGlnZTJwYw==" },
     { title: "Whatsapp", url: "https://wa.me/6289654782544" },
     { title: "Saweria", url: "https://saweria.co/" },
