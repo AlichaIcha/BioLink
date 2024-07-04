@@ -8,7 +8,7 @@ const profileSettings = {
   metaDescription: "Profile Website Ganxz Store, Creator And Store", // Deskripsi meta untuk SEO
   metaKeywords: "Ganxz, Ganxz Store, profile Ganxz, siapa Ganxz?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
-  imageSrc: "profile.jpg", // Path ke gambar profil
+  imageSrc: "profile.png", // Path ke gambar profil
   name: "Ganzx Store", // Nama profil
   occupation: "Creator and Store", // Pekerjaan atau jabatan
   location: "Bekasi, Jawa Barat, Indonesia", // Lokasi
