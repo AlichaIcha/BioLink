@@ -32,14 +32,7 @@ document.getElementById('meta-title').content = profileSettings.metaTitle;
 document.getElementById('meta-description').content = profileSettings.metaDescription;
 document.getElementById('meta-keywords').content = profileSettings.metaKeywords;
 document.getElementById('meta-robots').content = profileSettings.metaRobots;
-
-// Mengatur gambar profil
 document.getElementById('profile-image').src = profileSettings.imageSrc;
-
-// Mengatur nama profil
-document.getElementById('profile-name').textContent = profileSettings.name;
-
-// Mengatur teks pekerjaan atau jabatan
 document.getElementById('occupation-text').textContent = profileSettings.occupation;
 
 // Mengatur lokasi
