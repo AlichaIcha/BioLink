@@ -15,7 +15,7 @@ const profileSettings = {
   backgroundImage: "background.jpg", // Latar belakang halaman
   links: [
     { title: "Tiktok", url: "https://https://tiktok.com/@ghanzxxyz2009", icon: "fa-tiktok" }, // Tautan GitHub
-    { title: "Instagram", url: "https://www.instagram.com/ghanz_anak_sholeh?igsh=MTNqYmZ5ZGlnZTJwYw==", icon: "fa-twitter" }, // Tautan Twitter
+    { title: "Instagram", url: "https://www.instagram.com/ghanz_anak_sholeh?igsh=MTNqYmZ5ZGlnZTJwYw==", icon: "fa-instagram" }, // Tautan Twitter
     { title: "Whatsapp", url: "https://wa.me/6289654782544", icon: "fa-whatsapp" }, // Tautan Instagram
     { title: "Saweria", url: "https://saweria.co/", icon: "fa-setting" }, // Tautan Telegram
   ]
