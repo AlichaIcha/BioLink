@@ -1,4 +1,4 @@
-// settings.js
+https://free.cepatssh.me:8081/client-tcp-1194.ovpn// settings.js
 
 // Objek untuk menyimpan semua pengaturan profil
 const profileSettings = {
@@ -14,7 +14,7 @@ const profileSettings = {
   location: "Bekasi, Jawa Barat, Indonesia", // Lokasi
   backgroundImage: "background.jpg", // Latar belakang halaman
   links: [
-    { title: "Tiktok", url: "tiktok.com/@ghanzxxyz2009" },
+    { title: "Tiktok", url: "https://www.tiktok.com/@ghanzxxyz2009" },
     { title: "Instagram", url: "https://www.instagram.com/ghanz_anak_sholeh?igsh=MTNqYmZ5ZGlnZTJwYw==" },
     { title: "Whatsapp", url: "https://wa.me/6289654782544" },
     { title: "Saweria", url: "https://saweria.co/" },
