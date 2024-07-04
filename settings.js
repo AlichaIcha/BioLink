@@ -16,7 +16,7 @@ const profileSettings = {
   links: [
     { title: "Instagram", url: "https://www.instagram.com/ghanz_anak_sholeh?igsh=MTNqYmZ5ZGlnZTJwYw==" },
     { title: "Whatsapp", url: "https://wa.me/6289654782544" },
-    { title: "Saweria", url: "https://www.tiktok.com/@ghanzxxyz2009" },
+    { title: "Saweria", url: "https://tiktok.com/@ghanzxxyz2009" },
   ]
 };
 
