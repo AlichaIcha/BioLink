@@ -14,10 +14,10 @@ const profileSettings = {
   location: "Bekasi, Jawa Barat, Indonesia", // Lokasi
   backgroundImage: "background.jpg", // Latar belakang halaman
   links: [
-    { title: "Tiktok", url: "https://https://tiktok.com/@ghanzxxyz2009", icon: "fa-setting" }, // Tautan GitHub
-    { title: "Instagram", url: "https://www.instagram.com/ghanz_anak_sholeh?igsh=MTNqYmZ5ZGlnZTJwYw==", icon: "fa-setting" }, // Tautan Twitter
-    { title: "Whatsapp", url: "https://wa.me/6289654782544", icon: "fa-setting" }, // Tautan Instagram
-    { title: "Saweria", url: "https://saweria.co/", icon: "fa-setting" }, // Tautan Telegram
+    { title: "Tiktok", url: "https://https://tiktok.com/@ghanzxxyz2009"}, //icon: "fa-setting" }, // Tautan GitHub
+    { title: "Instagram", url: "https://www.instagram.com/ghanz_anak_sholeh?igsh=MTNqYmZ5ZGlnZTJwYw=="}, //icon: "fa-setting" }, // Tautan Twitter
+    { title: "Whatsapp", url: "https://wa.me/6289654782544"}, //icon: "fa-setting" }, // Tautan Instagram
+    { title: "Saweria", url: "https://saweria.co/"}, //icon: "fa-setting" }, // Tautan Telegram
   ]
 };
 
